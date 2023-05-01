@@ -24,7 +24,7 @@
                 Mode = ResizeMode.Max
             }));
 
-            return reSizedImage;
+            return reSizedImage; 
         }
 
         /// <summary>
